@@ -1,0 +1,3019 @@
+[
+  {
+    "pathway_id": "path:hsa05200",
+    "pathway_name": "path:hsa05200",
+    "overlap": 27,
+    "pathway_size": 533,
+    "p_value": 0.0,
+    "genes": [
+      "VEGFA",
+      "FOS",
+      "CASP3",
+      "MMP2",
+      "MAPK8",
+      "ESR1",
+      "MYC",
+      "MAPK1",
+      "AKT1",
+      "MMP9",
+      "HRAS",
+      "CASP9",
+      "IL6",
+      "NFKB1",
+      "RELA",
+      "PPARG",
+      "TP53",
+      "NOS2",
+      "STAT3",
+      "NFE2L2",
+      "PTGS2",
+      "HMOX1",
+      "JUN",
+      "BCL2",
+      "AR",
+      "CDK2",
+      "CXCL8"
+    ],
+    "fdr": 0.0
+  },
+  {
+    "pathway_id": "path:hsa05417",
+    "pathway_name": "path:hsa05417",
+    "overlap": 22,
+    "pathway_size": 216,
+    "p_value": 0.0,
+    "genes": [
+      "FOS",
+      "CASP3",
+      "MAPK8",
+      "CCL2",
+      "MAPK1",
+      "AKT1",
+      "MMP9",
+      "HRAS",
+      "CASP9",
+      "IL6",
+      "NFKB1",
+      "RELA",
+      "PPARG",
+      "TP53",
+      "STAT3",
+      "SRC",
+      "NFE2L2",
+      "JUN",
+      "BCL2",
+      "IL1B",
+      "TNF",
+      "CXCL8"
+    ],
+    "fdr": 0.0
+  },
+  {
+    "pathway_id": "path:hsa05161",
+    "pathway_name": "path:hsa05161",
+    "overlap": 20,
+    "pathway_size": 163,
+    "p_value": 0.0,
+    "genes": [
+      "FOS",
+      "CASP3",
+      "MAPK8",
+      "MYC",
+      "MAPK1",
+      "AKT1",
+      "MMP9",
+      "HRAS",
+      "CASP9",
+      "IL6",
+      "NFKB1",
+      "RELA",
+      "TP53",
+      "STAT3",
+      "SRC",
+      "JUN",
+      "BCL2",
+      "TNF",
+      "CDK2",
+      "CXCL8"
+    ],
+    "fdr": 0.0
+  },
+  {
+    "pathway_id": "path:hsa05163",
+    "pathway_name": "path:hsa05163",
+    "overlap": 18,
+    "pathway_size": 227,
+    "p_value": 0.0,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "CASP9",
+      "IL6",
+      "NFKB1",
+      "IL1B",
+      "VEGFA",
+      "SRC",
+      "CASP3",
+      "MYC",
+      "RELA",
+      "TP53",
+      "TNF",
+      "CCL2",
+      "MAPK1",
+      "AKT1",
+      "CXCL8",
+      "PTGS2"
+    ],
+    "fdr": 0.0
+  },
+  {
+    "pathway_id": "path:hsa05167",
+    "pathway_name": "path:hsa05167",
+    "overlap": 18,
+    "pathway_size": 196,
+    "p_value": 0.0,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "CASP9",
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "VEGFA",
+      "FOS",
+      "SRC",
+      "CASP3",
+      "MAPK8",
+      "MYC",
+      "RELA",
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "CXCL8",
+      "PTGS2"
+    ],
+    "fdr": 0.0
+  },
+  {
+    "pathway_id": "path:hsa04933",
+    "pathway_name": "path:hsa04933",
+    "overlap": 17,
+    "pathway_size": 101,
+    "p_value": 0.0,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "BCL2",
+      "IL1B",
+      "VEGFA",
+      "CASP3",
+      "MMP2",
+      "MAPK8",
+      "RELA",
+      "TNF",
+      "CCL2",
+      "MAPK1",
+      "AKT1",
+      "CXCL8"
+    ],
+    "fdr": 0.0
+  },
+  {
+    "pathway_id": "path:hsa05418",
+    "pathway_name": "path:hsa05418",
+    "overlap": 17,
+    "pathway_size": 142,
+    "p_value": 0.0,
+    "genes": [
+      "HMOX1",
+      "JUN",
+      "NFKB1",
+      "BCL2",
+      "IL1B",
+      "VEGFA",
+      "FOS",
+      "SRC",
+      "MMP2",
+      "MAPK8",
+      "RELA",
+      "NFE2L2",
+      "TP53",
+      "TNF",
+      "CCL2",
+      "AKT1",
+      "MMP9"
+    ],
+    "fdr": 0.0
+  },
+  {
+    "pathway_id": "path:hsa04657",
+    "pathway_name": "path:hsa04657",
+    "overlap": 14,
+    "pathway_size": 94,
+    "p_value": 0.0,
+    "genes": [
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "FOS",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "TNF",
+      "CCL2",
+      "MAPK1",
+      "MMP9",
+      "CXCL8",
+      "PTGS2"
+    ],
+    "fdr": 0.0
+  },
+  {
+    "pathway_id": "path:hsa04668",
+    "pathway_name": "path:hsa04668",
+    "overlap": 14,
+    "pathway_size": 119,
+    "p_value": 0.0,
+    "genes": [
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "FOS",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "TNF",
+      "CCL2",
+      "MAPK1",
+      "AKT1",
+      "MMP9",
+      "PTGS2"
+    ],
+    "fdr": 0.0
+  },
+  {
+    "pathway_id": "path:hsa05162",
+    "pathway_name": "path:hsa05162",
+    "overlap": 14,
+    "pathway_size": 136,
+    "p_value": 0.0,
+    "genes": [
+      "STAT3",
+      "CASP9",
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "BCL2",
+      "IL1B",
+      "FOS",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "TP53",
+      "AKT1",
+      "CDK2"
+    ],
+    "fdr": 0.0
+  },
+  {
+    "pathway_id": "path:hsa05142",
+    "pathway_name": "path:hsa05142",
+    "overlap": 13,
+    "pathway_size": 103,
+    "p_value": 0.0,
+    "genes": [
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "FOS",
+      "RELA",
+      "MAPK8",
+      "TNF",
+      "CCL2",
+      "MAPK1",
+      "AKT1",
+      "CXCL8",
+      "NOS2"
+    ],
+    "fdr": 0.0
+  },
+  {
+    "pathway_id": "path:hsa05133",
+    "pathway_name": "path:hsa05133",
+    "overlap": 12,
+    "pathway_size": 78,
+    "p_value": 0.0,
+    "genes": [
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "FOS",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "TNF",
+      "MAPK1",
+      "CXCL8",
+      "NOS2"
+    ],
+    "fdr": 0.0
+  },
+  {
+    "pathway_id": "path:hsa04210",
+    "pathway_name": "path:hsa04210",
+    "overlap": 13,
+    "pathway_size": 138,
+    "p_value": 1.1102230246251565e-16,
+    "genes": [
+      "HRAS",
+      "CASP9",
+      "JUN",
+      "NFKB1",
+      "BCL2",
+      "FOS",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "TNF",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 1.214306433183765e-15
+  },
+  {
+    "pathway_id": "path:hsa04926",
+    "pathway_name": "path:hsa04926",
+    "overlap": 13,
+    "pathway_size": 130,
+    "p_value": 1.1102230246251565e-16,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "NFKB1",
+      "VEGFA",
+      "FOS",
+      "SRC",
+      "MMP2",
+      "MAPK8",
+      "RELA",
+      "MAPK1",
+      "AKT1",
+      "MMP9",
+      "NOS2"
+    ],
+    "fdr": 1.214306433183765e-15
+  },
+  {
+    "pathway_id": "path:hsa05135",
+    "pathway_name": "path:hsa05135",
+    "overlap": 13,
+    "pathway_size": 138,
+    "p_value": 1.1102230246251565e-16,
+    "genes": [
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "FOS",
+      "SRC",
+      "RELA",
+      "MAPK8",
+      "TNF",
+      "CCL2",
+      "MAPK1",
+      "AKT1",
+      "CXCL8"
+    ],
+    "fdr": 1.214306433183765e-15
+  },
+  {
+    "pathway_id": "path:hsa01522",
+    "pathway_name": "path:hsa01522",
+    "overlap": 12,
+    "pathway_size": 99,
+    "p_value": 1.1102230246251565e-16,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "BCL2",
+      "FOS",
+      "SRC",
+      "MMP2",
+      "MAPK8",
+      "ESR1",
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "MMP9"
+    ],
+    "fdr": 1.214306433183765e-15
+  },
+  {
+    "pathway_id": "path:hsa04625",
+    "pathway_name": "path:hsa04625",
+    "overlap": 12,
+    "pathway_size": 105,
+    "p_value": 2.220446049250313e-16,
+    "genes": [
+      "HRAS",
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "SRC",
+      "RELA",
+      "MAPK8",
+      "TNF",
+      "MAPK1",
+      "AKT1",
+      "PTGS2"
+    ],
+    "fdr": 2.2857532859929695e-15
+  },
+  {
+    "pathway_id": "path:hsa05132",
+    "pathway_name": "path:hsa05132",
+    "overlap": 15,
+    "pathway_size": 249,
+    "p_value": 3.3306690738754696e-16,
+    "genes": [
+      "HRAS",
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "BCL2",
+      "IL1B",
+      "FOS",
+      "CASP3",
+      "MAPK8",
+      "MYC",
+      "RELA",
+      "TNF",
+      "MAPK1",
+      "AKT1",
+      "CXCL8"
+    ],
+    "fdr": 3.23815048849004e-15
+  },
+  {
+    "pathway_id": "path:hsa05169",
+    "pathway_name": "path:hsa05169",
+    "overlap": 14,
+    "pathway_size": 205,
+    "p_value": 6.661338147750939e-16,
+    "genes": [
+      "STAT3",
+      "CASP9",
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "BCL2",
+      "CASP3",
+      "MAPK8",
+      "MYC",
+      "RELA",
+      "TNF",
+      "TP53",
+      "AKT1",
+      "CDK2"
+    ],
+    "fdr": 6.1354430308232336e-15
+  },
+  {
+    "pathway_id": "path:hsa05207",
+    "pathway_name": "path:hsa05207",
+    "overlap": 14,
+    "pathway_size": 217,
+    "p_value": 1.4432899320127035e-15,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "JUN",
+      "NFKB1",
+      "BCL2",
+      "VEGFA",
+      "FOS",
+      "SRC",
+      "RELA",
+      "ESR1",
+      "MYC",
+      "AR",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 1.2628786905111156e-14
+  },
+  {
+    "pathway_id": "path:hsa05210",
+    "pathway_name": "path:hsa05210",
+    "overlap": 11,
+    "pathway_size": 87,
+    "p_value": 1.5543122344752192e-15,
+    "genes": [
+      "HRAS",
+      "CASP9",
+      "JUN",
+      "BCL2",
+      "FOS",
+      "CASP3",
+      "MAPK8",
+      "MYC",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 1.295260195396016e-14
+  },
+  {
+    "pathway_id": "path:hsa05222",
+    "pathway_name": "path:hsa05222",
+    "overlap": 11,
+    "pathway_size": 93,
+    "p_value": 3.4416913763379853e-15,
+    "genes": [
+      "CASP9",
+      "PTGS2",
+      "NFKB1",
+      "BCL2",
+      "CASP3",
+      "MYC",
+      "RELA",
+      "TP53",
+      "AKT1",
+      "CDK2",
+      "NOS2"
+    ],
+    "fdr": 2.737709049359761e-14
+  },
+  {
+    "pathway_id": "path:hsa05219",
+    "pathway_name": "path:hsa05219",
+    "overlap": 9,
+    "pathway_size": 41,
+    "p_value": 4.107825191113079e-15,
+    "genes": [
+      "HRAS",
+      "VEGFA",
+      "SRC",
+      "MMP2",
+      "MYC",
+      "TP53",
+      "MAPK1",
+      "MMP9",
+      "CXCL8"
+    ],
+    "fdr": 3.125519167151256e-14
+  },
+  {
+    "pathway_id": "path:hsa05152",
+    "pathway_name": "path:hsa05152",
+    "overlap": 13,
+    "pathway_size": 181,
+    "p_value": 4.773959005888173e-15,
+    "genes": [
+      "CASP9",
+      "IL6",
+      "NFKB1",
+      "BCL2",
+      "IL1B",
+      "SRC",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "TNF",
+      "MAPK1",
+      "AKT1",
+      "NOS2"
+    ],
+    "fdr": 3.481011775126793e-14
+  },
+  {
+    "pathway_id": "path:hsa04917",
+    "pathway_name": "path:hsa04917",
+    "overlap": 10,
+    "pathway_size": 71,
+    "p_value": 1.199040866595169e-14,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "NFKB1",
+      "FOS",
+      "SRC",
+      "RELA",
+      "MAPK8",
+      "ESR1",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 8.393286066166183e-14
+  },
+  {
+    "pathway_id": "path:hsa05215",
+    "pathway_name": "path:hsa05215",
+    "overlap": 11,
+    "pathway_size": 106,
+    "p_value": 1.509903313490213e-14,
+    "genes": [
+      "HRAS",
+      "CASP9",
+      "NFKB1",
+      "BCL2",
+      "CDK2",
+      "RELA",
+      "AR",
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "MMP9"
+    ],
+    "fdr": 1.0162810763876433e-13
+  },
+  {
+    "pathway_id": "path:hsa05130",
+    "pathway_name": "path:hsa05130",
+    "overlap": 13,
+    "pathway_size": 201,
+    "p_value": 1.8984813721090177e-14,
+    "genes": [
+      "CASP9",
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "FOS",
+      "SRC",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "TNF",
+      "MAPK1",
+      "CXCL8"
+    ],
+    "fdr": 1.230497185626215e-13
+  },
+  {
+    "pathway_id": "path:hsa04620",
+    "pathway_name": "path:hsa04620",
+    "overlap": 11,
+    "pathway_size": 109,
+    "p_value": 2.0761170560490427e-14,
+    "genes": [
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "FOS",
+      "RELA",
+      "MAPK8",
+      "TNF",
+      "MAPK1",
+      "AKT1",
+      "CXCL8"
+    ],
+    "fdr": 1.2975731600306517e-13
+  },
+  {
+    "pathway_id": "path:hsa05205",
+    "pathway_name": "path:hsa05205",
+    "overlap": 13,
+    "pathway_size": 204,
+    "p_value": 2.298161660974074e-14,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "VEGFA",
+      "SRC",
+      "CASP3",
+      "MMP2",
+      "ESR1",
+      "MYC",
+      "TNF",
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "MMP9"
+    ],
+    "fdr": 1.3868216919671137e-13
+  },
+  {
+    "pathway_id": "path:hsa05145",
+    "pathway_name": "path:hsa05145",
+    "overlap": 11,
+    "pathway_size": 112,
+    "p_value": 2.8199664825478976e-14,
+    "genes": [
+      "STAT3",
+      "CASP9",
+      "NFKB1",
+      "BCL2",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "TNF",
+      "MAPK1",
+      "AKT1",
+      "NOS2"
+    ],
+    "fdr": 1.6449804481529404e-13
+  },
+  {
+    "pathway_id": "path:hsa05160",
+    "pathway_name": "path:hsa05160",
+    "overlap": 12,
+    "pathway_size": 156,
+    "p_value": 2.986499936241671e-14,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "CASP9",
+      "NFKB1",
+      "CASP3",
+      "MYC",
+      "RELA",
+      "TNF",
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "CDK2"
+    ],
+    "fdr": 1.6859273833622336e-13
+  },
+  {
+    "pathway_id": "path:hsa04932",
+    "pathway_name": "path:hsa04932",
+    "overlap": 12,
+    "pathway_size": 157,
+    "p_value": 3.2307490016592055e-14,
+    "genes": [
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "FOS",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "PPARG",
+      "TNF",
+      "AKT1",
+      "CXCL8"
+    ],
+    "fdr": 1.766815860282378e-13
+  },
+  {
+    "pathway_id": "path:hsa05166",
+    "pathway_name": "path:hsa05166",
+    "overlap": 13,
+    "pathway_size": 224,
+    "p_value": 7.749356711883593e-14,
+    "genes": [
+      "HRAS",
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "FOS",
+      "RELA",
+      "MAPK8",
+      "MYC",
+      "TNF",
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "CDK2"
+    ],
+    "fdr": 4.109507347210996e-13
+  },
+  {
+    "pathway_id": "path:hsa04010",
+    "pathway_name": "path:hsa04010",
+    "overlap": 14,
+    "pathway_size": 301,
+    "p_value": 1.3922196728799463e-13,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "VEGFA",
+      "FOS",
+      "CASP3",
+      "MAPK8",
+      "MYC",
+      "RELA",
+      "TNF",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 7.165836551587958e-13
+  },
+  {
+    "pathway_id": "path:hsa05168",
+    "pathway_name": "path:hsa05168",
+    "overlap": 12,
+    "pathway_size": 180,
+    "p_value": 1.6864287744056128e-13,
+    "genes": [
+      "CASP9",
+      "IL6",
+      "NFKB1",
+      "BCL2",
+      "IL1B",
+      "SRC",
+      "CASP3",
+      "RELA",
+      "TP53",
+      "TNF",
+      "CCL2",
+      "AKT1"
+    ],
+    "fdr": 8.432143872028064e-13
+  },
+  {
+    "pathway_id": "path:hsa04066",
+    "pathway_name": "path:hsa04066",
+    "overlap": 10,
+    "pathway_size": 110,
+    "p_value": 1.1229905894083458e-12,
+    "genes": [
+      "HMOX1",
+      "STAT3",
+      "IL6",
+      "NFKB1",
+      "BCL2",
+      "VEGFA",
+      "RELA",
+      "MAPK1",
+      "AKT1",
+      "NOS2"
+    ],
+    "fdr": 5.458982031846126e-12
+  },
+  {
+    "pathway_id": "path:hsa05170",
+    "pathway_name": "path:hsa05170",
+    "overlap": 12,
+    "pathway_size": 214,
+    "p_value": 1.3393730569077889e-12,
+    "genes": [
+      "HRAS",
+      "CASP9",
+      "JUN",
+      "NFKB1",
+      "BCL2",
+      "FOS",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "TNF",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 6.334872566455758e-12
+  },
+  {
+    "pathway_id": "path:hsa05212",
+    "pathway_name": "path:hsa05212",
+    "overlap": 9,
+    "pathway_size": 77,
+    "p_value": 1.7554846465372975e-12,
+    "genes": [
+      "STAT3",
+      "CASP9",
+      "NFKB1",
+      "VEGFA",
+      "RELA",
+      "MAPK8",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 8.08446876694808e-12
+  },
+  {
+    "pathway_id": "path:hsa05140",
+    "pathway_name": "path:hsa05140",
+    "overlap": 9,
+    "pathway_size": 78,
+    "p_value": 1.9801937867214292e-12,
+    "genes": [
+      "PTGS2",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "FOS",
+      "RELA",
+      "TNF",
+      "MAPK1",
+      "NOS2"
+    ],
+    "fdr": 8.885484940416669e-12
+  },
+  {
+    "pathway_id": "path:hsa05208",
+    "pathway_name": "path:hsa05208",
+    "overlap": 12,
+    "pathway_size": 227,
+    "p_value": 2.7006175074006933e-12,
+    "genes": [
+      "HMOX1",
+      "HRAS",
+      "JUN",
+      "NFKB1",
+      "VEGFA",
+      "FOS",
+      "SRC",
+      "RELA",
+      "MAPK8",
+      "NFE2L2",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 1.1815201594878033e-11
+  },
+  {
+    "pathway_id": "path:hsa05164",
+    "pathway_name": "path:hsa05164",
+    "overlap": 11,
+    "pathway_size": 173,
+    "p_value": 3.586131391841718e-12,
+    "genes": [
+      "CASP9",
+      "IL6",
+      "NFKB1",
+      "IL1B",
+      "CASP3",
+      "RELA",
+      "TNF",
+      "CCL2",
+      "MAPK1",
+      "AKT1",
+      "CXCL8"
+    ],
+    "fdr": 1.530665837981221e-11
+  },
+  {
+    "pathway_id": "path:hsa05171",
+    "pathway_name": "path:hsa05171",
+    "overlap": 12,
+    "pathway_size": 239,
+    "p_value": 4.972466882691151e-12,
+    "genes": [
+      "STAT3",
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "FOS",
+      "RELA",
+      "MAPK8",
+      "TNF",
+      "CCL2",
+      "MAPK1",
+      "CXCL8"
+    ],
+    "fdr": 2.071861201121313e-11
+  },
+  {
+    "pathway_id": "path:hsa05134",
+    "pathway_name": "path:hsa05134",
+    "overlap": 8,
+    "pathway_size": 56,
+    "p_value": 6.5778493762991275e-12,
+    "genes": [
+      "CASP9",
+      "IL6",
+      "NFKB1",
+      "IL1B",
+      "CASP3",
+      "RELA",
+      "TNF",
+      "CXCL8"
+    ],
+    "fdr": 2.6770317229124355e-11
+  },
+  {
+    "pathway_id": "path:hsa04621",
+    "pathway_name": "path:hsa04621",
+    "overlap": 11,
+    "pathway_size": 187,
+    "p_value": 8.415934615868537e-12,
+    "genes": [
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "BCL2",
+      "IL1B",
+      "RELA",
+      "MAPK8",
+      "TNF",
+      "CCL2",
+      "MAPK1",
+      "CXCL8"
+    ],
+    "fdr": 3.347246722220441e-11
+  },
+  {
+    "pathway_id": "path:hsa05131",
+    "pathway_name": "path:hsa05131",
+    "overlap": 12,
+    "pathway_size": 253,
+    "p_value": 9.738987394314336e-12,
+    "genes": [
+      "JUN",
+      "NFKB1",
+      "BCL2",
+      "IL1B",
+      "SRC",
+      "RELA",
+      "MAPK8",
+      "TNF",
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "CXCL8"
+    ],
+    "fdr": 3.7873839866777975e-11
+  },
+  {
+    "pathway_id": "path:hsa04915",
+    "pathway_name": "path:hsa04915",
+    "overlap": 10,
+    "pathway_size": 139,
+    "p_value": 1.2019829576104257e-11,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "BCL2",
+      "FOS",
+      "SRC",
+      "MMP2",
+      "ESR1",
+      "MAPK1",
+      "AKT1",
+      "MMP9"
+    ],
+    "fdr": 4.572761251778793e-11
+  },
+  {
+    "pathway_id": "path:hsa04380",
+    "pathway_name": "path:hsa04380",
+    "overlap": 10,
+    "pathway_size": 142,
+    "p_value": 1.489608436600065e-11,
+    "genes": [
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "FOS",
+      "RELA",
+      "MAPK8",
+      "PPARG",
+      "TNF",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 5.546414391595987e-11
+  },
+  {
+    "pathway_id": "path:hsa04218",
+    "pathway_name": "path:hsa04218",
+    "overlap": 10,
+    "pathway_size": 157,
+    "p_value": 4.0695335989937576e-11,
+    "genes": [
+      "HRAS",
+      "IL6",
+      "NFKB1",
+      "RELA",
+      "MYC",
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "CDK2",
+      "CXCL8"
+    ],
+    "fdr": 1.4836841246331409e-10
+  },
+  {
+    "pathway_id": "path:hsa04659",
+    "pathway_name": "path:hsa04659",
+    "overlap": 9,
+    "pathway_size": 109,
+    "p_value": 4.335110048714341e-11,
+    "genes": [
+      "STAT3",
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "FOS",
+      "RELA",
+      "MAPK8",
+      "MAPK1"
+    ],
+    "fdr": 1.5482535888265503e-10
+  },
+  {
+    "pathway_id": "path:hsa05010",
+    "pathway_name": "path:hsa05010",
+    "overlap": 13,
+    "pathway_size": 389,
+    "p_value": 8.723433086998966e-11,
+    "genes": [
+      "HRAS",
+      "CASP9",
+      "PTGS2",
+      "IL6",
+      "NFKB1",
+      "IL1B",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "TNF",
+      "MAPK1",
+      "AKT1",
+      "NOS2"
+    ],
+    "fdr": 3.053201580449638e-10
+  },
+  {
+    "pathway_id": "path:hsa04722",
+    "pathway_name": "path:hsa04722",
+    "overlap": 9,
+    "pathway_size": 120,
+    "p_value": 1.0387057880478778e-10,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "NFKB1",
+      "BCL2",
+      "RELA",
+      "MAPK8",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 3.564186527615267e-10
+  },
+  {
+    "pathway_id": "path:hsa04660",
+    "pathway_name": "path:hsa04660",
+    "overlap": 9,
+    "pathway_size": 122,
+    "p_value": 1.2064149679247294e-10,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "NFKB1",
+      "FOS",
+      "RELA",
+      "MAPK8",
+      "TNF",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 4.060050372823608e-10
+  },
+  {
+    "pathway_id": "path:hsa01521",
+    "pathway_name": "path:hsa01521",
+    "overlap": 8,
+    "pathway_size": 80,
+    "p_value": 1.2737966237352794e-10,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "IL6",
+      "BCL2",
+      "VEGFA",
+      "SRC",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 4.2059322481825264e-10
+  },
+  {
+    "pathway_id": "path:hsa04071",
+    "pathway_name": "path:hsa04071",
+    "overlap": 9,
+    "pathway_size": 125,
+    "p_value": 1.5028145394779813e-10,
+    "genes": [
+      "HRAS",
+      "NFKB1",
+      "BCL2",
+      "RELA",
+      "MAPK8",
+      "TNF",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 4.870232303863828e-10
+  },
+  {
+    "pathway_id": "path:hsa05206",
+    "pathway_name": "path:hsa05206",
+    "overlap": 12,
+    "pathway_size": 323,
+    "p_value": 1.6928602963872663e-10,
+    "genes": [
+      "HMOX1",
+      "STAT3",
+      "HRAS",
+      "NFKB1",
+      "BCL2",
+      "VEGFA",
+      "CASP3",
+      "MYC",
+      "TP53",
+      "MAPK1",
+      "MMP9",
+      "PTGS2"
+    ],
+    "fdr": 5.38637367032312e-10
+  },
+  {
+    "pathway_id": "path:hsa05235",
+    "pathway_name": "path:hsa05235",
+    "overlap": 8,
+    "pathway_size": 90,
+    "p_value": 3.332616405060662e-10,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "JUN",
+      "NFKB1",
+      "FOS",
+      "RELA",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 1.041442626581457e-09
+  },
+  {
+    "pathway_id": "path:hsa05323",
+    "pathway_name": "path:hsa05323",
+    "overlap": 8,
+    "pathway_size": 95,
+    "p_value": 5.168999672733321e-10,
+    "genes": [
+      "IL6",
+      "JUN",
+      "IL1B",
+      "VEGFA",
+      "FOS",
+      "TNF",
+      "CCL2",
+      "CXCL8"
+    ],
+    "fdr": 1.5869735837339144e-09
+  },
+  {
+    "pathway_id": "path:hsa04936",
+    "pathway_name": "path:hsa04936",
+    "overlap": 9,
+    "pathway_size": 144,
+    "p_value": 5.366285193986187e-10,
+    "genes": [
+      "IL6",
+      "NFKB1",
+      "IL1B",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "TNF",
+      "AKT1",
+      "CXCL8"
+    ],
+    "fdr": 1.6191377740475563e-09
+  },
+  {
+    "pathway_id": "path:hsa05203",
+    "pathway_name": "path:hsa05203",
+    "overlap": 10,
+    "pathway_size": 205,
+    "p_value": 5.693772120451968e-10,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "JUN",
+      "NFKB1",
+      "SRC",
+      "CASP3",
+      "RELA",
+      "TP53",
+      "MAPK1",
+      "CDK2"
+    ],
+    "fdr": 1.6888307136933802e-09
+  },
+  {
+    "pathway_id": "path:hsa04151",
+    "pathway_name": "path:hsa04151",
+    "overlap": 12,
+    "pathway_size": 362,
+    "p_value": 6.308712441338571e-10,
+    "genes": [
+      "HRAS",
+      "CASP9",
+      "IL6",
+      "NFKB1",
+      "BCL2",
+      "VEGFA",
+      "RELA",
+      "MYC",
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "CDK2"
+    ],
+    "fdr": 1.84004112872375e-09
+  },
+  {
+    "pathway_id": "path:hsa04370",
+    "pathway_name": "path:hsa04370",
+    "overlap": 7,
+    "pathway_size": 60,
+    "p_value": 6.917413308826781e-10,
+    "genes": [
+      "HRAS",
+      "CASP9",
+      "VEGFA",
+      "SRC",
+      "MAPK1",
+      "AKT1",
+      "PTGS2"
+    ],
+    "fdr": 1.984503818106044e-09
+  },
+  {
+    "pathway_id": "path:hsa05146",
+    "pathway_name": "path:hsa05146",
+    "overlap": 8,
+    "pathway_size": 103,
+    "p_value": 9.935501310565087e-10,
+    "genes": [
+      "IL6",
+      "NFKB1",
+      "IL1B",
+      "CASP3",
+      "RELA",
+      "TNF",
+      "CXCL8",
+      "NOS2"
+    ],
+    "fdr": 2.804375369917565e-09
+  },
+  {
+    "pathway_id": "path:hsa05022",
+    "pathway_name": "path:hsa05022",
+    "overlap": 13,
+    "pathway_size": 481,
+    "p_value": 1.208887545622872e-09,
+    "genes": [
+      "HRAS",
+      "CASP9",
+      "PTGS2",
+      "IL6",
+      "NFKB1",
+      "BCL2",
+      "IL1B",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "TNF",
+      "MAPK1",
+      "NOS2"
+    ],
+    "fdr": 3.3580209600635334e-09
+  },
+  {
+    "pathway_id": "path:hsa05321",
+    "pathway_name": "path:hsa05321",
+    "overlap": 7,
+    "pathway_size": 66,
+    "p_value": 1.3762760930902118e-09,
+    "genes": [
+      "STAT3",
+      "IL6",
+      "JUN",
+      "NFKB1",
+      "IL1B",
+      "RELA",
+      "TNF"
+    ],
+    "fdr": 3.763254942043548e-09
+  },
+  {
+    "pathway_id": "path:hsa05221",
+    "pathway_name": "path:hsa05221",
+    "overlap": 7,
+    "pathway_size": 68,
+    "p_value": 1.705539154350788e-09,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "NFKB1",
+      "RELA",
+      "MYC",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 4.5918361847905835e-09
+  },
+  {
+    "pathway_id": "path:hsa05120",
+    "pathway_name": "path:hsa05120",
+    "overlap": 7,
+    "pathway_size": 71,
+    "p_value": 2.3239927759988177e-09,
+    "genes": [
+      "JUN",
+      "NFKB1",
+      "SRC",
+      "CASP3",
+      "MAPK8",
+      "RELA",
+      "CXCL8"
+    ],
+    "fdr": 6.162102057572623e-09
+  },
+  {
+    "pathway_id": "path:hsa04919",
+    "pathway_name": "path:hsa04919",
+    "overlap": 8,
+    "pathway_size": 122,
+    "p_value": 3.859714992060503e-09,
+    "genes": [
+      "HRAS",
+      "CASP9",
+      "SRC",
+      "ESR1",
+      "MYC",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 1.008134512851624e-08
+  },
+  {
+    "pathway_id": "path:hsa05165",
+    "pathway_name": "path:hsa05165",
+    "overlap": 11,
+    "pathway_size": 333,
+    "p_value": 4.103403616895207e-09,
+    "genes": [
+      "HRAS",
+      "NFKB1",
+      "VEGFA",
+      "CASP3",
+      "RELA",
+      "TNF",
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "CDK2",
+      "PTGS2"
+    ],
+    "fdr": 1.0515898216624258e-08
+  },
+  {
+    "pathway_id": "path:hsa05220",
+    "pathway_name": "path:hsa05220",
+    "overlap": 7,
+    "pathway_size": 77,
+    "p_value": 4.146268439697565e-09,
+    "genes": [
+      "HRAS",
+      "NFKB1",
+      "RELA",
+      "MYC",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 1.0515898216624258e-08
+  },
+  {
+    "pathway_id": "path:hsa04062",
+    "pathway_name": "path:hsa04062",
+    "overlap": 9,
+    "pathway_size": 193,
+    "p_value": 7.2048658150691836e-09,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "NFKB1",
+      "SRC",
+      "RELA",
+      "CCL2",
+      "MAPK1",
+      "AKT1",
+      "CXCL8"
+    ],
+    "fdr": 1.801216453767296e-08
+  },
+  {
+    "pathway_id": "path:hsa04012",
+    "pathway_name": "path:hsa04012",
+    "overlap": 7,
+    "pathway_size": 86,
+    "p_value": 9.079113016952078e-09,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "SRC",
+      "MAPK8",
+      "MYC",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 2.23780954643185e-08
+  },
+  {
+    "pathway_id": "path:hsa04662",
+    "pathway_name": "path:hsa04662",
+    "overlap": 7,
+    "pathway_size": 91,
+    "p_value": 1.3523861586151043e-08,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "NFKB1",
+      "FOS",
+      "RELA",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 3.2870496910783785e-08
+  },
+  {
+    "pathway_id": "path:hsa05224",
+    "pathway_name": "path:hsa05224",
+    "overlap": 8,
+    "pathway_size": 148,
+    "p_value": 1.783204273131389e-08,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "FOS",
+      "ESR1",
+      "MYC",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 4.2748047643560696e-08
+  },
+  {
+    "pathway_id": "path:hsa05213",
+    "pathway_name": "path:hsa05213",
+    "overlap": 6,
+    "pathway_size": 59,
+    "p_value": 3.0320985611176354e-08,
+    "genes": [
+      "HRAS",
+      "CASP9",
+      "MYC",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 7.170503353994408e-08
+  },
+  {
+    "pathway_id": "path:hsa04064",
+    "pathway_name": "path:hsa04064",
+    "overlap": 7,
+    "pathway_size": 105,
+    "p_value": 3.685311655843293e-08,
+    "genes": [
+      "NFKB1",
+      "BCL2",
+      "IL1B",
+      "RELA",
+      "TNF",
+      "CXCL8",
+      "PTGS2"
+    ],
+    "fdr": 8.519553841641369e-08
+  },
+  {
+    "pathway_id": "path:hsa01523",
+    "pathway_name": "path:hsa01523",
+    "overlap": 5,
+    "pathway_size": 30,
+    "p_value": 3.699920525512823e-08,
+    "genes": [
+      "IL6",
+      "NFKB1",
+      "IL1B",
+      "RELA",
+      "TNF"
+    ],
+    "fdr": 8.519553841641369e-08
+  },
+  {
+    "pathway_id": "path:hsa04931",
+    "pathway_name": "path:hsa04931",
+    "overlap": 7,
+    "pathway_size": 109,
+    "p_value": 4.7814035286641854e-08,
+    "genes": [
+      "STAT3",
+      "IL6",
+      "NFKB1",
+      "RELA",
+      "MAPK8",
+      "TNF",
+      "AKT1"
+    ],
+    "fdr": 1.0866826201509512e-07
+  },
+  {
+    "pathway_id": "path:hsa04920",
+    "pathway_name": "path:hsa04920",
+    "overlap": 6,
+    "pathway_size": 70,
+    "p_value": 8.604358692210212e-08,
+    "genes": [
+      "STAT3",
+      "NFKB1",
+      "RELA",
+      "MAPK8",
+      "TNF",
+      "AKT1"
+    ],
+    "fdr": 1.9304650912010092e-07
+  },
+  {
+    "pathway_id": "path:hsa05223",
+    "pathway_name": "path:hsa05223",
+    "overlap": 6,
+    "pathway_size": 73,
+    "p_value": 1.1094884055928844e-07,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "CASP9",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 2.436032021241319e-07
+  },
+  {
+    "pathway_id": "path:hsa05216",
+    "pathway_name": "path:hsa05216",
+    "overlap": 5,
+    "pathway_size": 37,
+    "p_value": 1.1136146382817458e-07,
+    "genes": [
+      "HRAS",
+      "MYC",
+      "PPARG",
+      "TP53",
+      "MAPK1"
+    ],
+    "fdr": 2.436032021241319e-07
+  },
+  {
+    "pathway_id": "path:hsa01524",
+    "pathway_name": "path:hsa01524",
+    "overlap": 6,
+    "pathway_size": 75,
+    "p_value": 1.306389353361581e-07,
+    "genes": [
+      "CASP9",
+      "BCL2",
+      "CASP3",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 2.822446133805885e-07
+  },
+  {
+    "pathway_id": "path:hsa04068",
+    "pathway_name": "path:hsa04068",
+    "overlap": 7,
+    "pathway_size": 133,
+    "p_value": 1.8913359889349834e-07,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "IL6",
+      "MAPK8",
+      "MAPK1",
+      "AKT1",
+      "CDK2"
+    ],
+    "fdr": 4.036387781263684e-07
+  },
+  {
+    "pathway_id": "path:hsa05202",
+    "pathway_name": "path:hsa05202",
+    "overlap": 8,
+    "pathway_size": 201,
+    "p_value": 1.9336878975817484e-07,
+    "genes": [
+      "IL6",
+      "NFKB1",
+      "RELA",
+      "MYC",
+      "PPARG",
+      "TP53",
+      "MMP9",
+      "CXCL8"
+    ],
+    "fdr": 4.077052796106096e-07
+  },
+  {
+    "pathway_id": "path:hsa04510",
+    "pathway_name": "path:hsa04510",
+    "overlap": 8,
+    "pathway_size": 203,
+    "p_value": 2.086815579227519e-07,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "BCL2",
+      "VEGFA",
+      "SRC",
+      "MAPK8",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 4.3475324567239976e-07
+  },
+  {
+    "pathway_id": "path:hsa04211",
+    "pathway_name": "path:hsa04211",
+    "overlap": 6,
+    "pathway_size": 90,
+    "p_value": 3.903245546776901e-07,
+    "genes": [
+      "HRAS",
+      "NFKB1",
+      "RELA",
+      "PPARG",
+      "TP53",
+      "AKT1"
+    ],
+    "fdr": 8.036093772775973e-07
+  },
+  {
+    "pathway_id": "path:hsa05226",
+    "pathway_name": "path:hsa05226",
+    "overlap": 7,
+    "pathway_size": 150,
+    "p_value": 4.3037697405878816e-07,
+    "genes": [
+      "HRAS",
+      "BCL2",
+      "MYC",
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "CDK2"
+    ],
+    "fdr": 8.75767098375441e-07
+  },
+  {
+    "pathway_id": "path:hsa04658",
+    "pathway_name": "path:hsa04658",
+    "overlap": 6,
+    "pathway_size": 93,
+    "p_value": 4.7459317198406126e-07,
+    "genes": [
+      "JUN",
+      "NFKB1",
+      "FOS",
+      "RELA",
+      "MAPK8",
+      "MAPK1"
+    ],
+    "fdr": 9.437932397410309e-07
+  },
+  {
+    "pathway_id": "path:hsa04912",
+    "pathway_name": "path:hsa04912",
+    "overlap": 6,
+    "pathway_size": 93,
+    "p_value": 4.7459317198406126e-07,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "SRC",
+      "MMP2",
+      "MAPK8",
+      "MAPK1"
+    ],
+    "fdr": 9.437932397410309e-07
+  },
+  {
+    "pathway_id": "path:hsa05144",
+    "pathway_name": "path:hsa05144",
+    "overlap": 5,
+    "pathway_size": 50,
+    "p_value": 5.253086186041145e-07,
+    "genes": [
+      "IL6",
+      "IL1B",
+      "TNF",
+      "CCL2",
+      "CXCL8"
+    ],
+    "fdr": 1.0329102051204497e-06
+  },
+  {
+    "pathway_id": "path:hsa05231",
+    "pathway_name": "path:hsa05231",
+    "overlap": 6,
+    "pathway_size": 99,
+    "p_value": 6.881590475238397e-07,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "FOS",
+      "MAPK8",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 1.3380870368519105e-06
+  },
+  {
+    "pathway_id": "path:hsa04137",
+    "pathway_name": "path:hsa04137",
+    "overlap": 6,
+    "pathway_size": 105,
+    "p_value": 9.748818985411134e-07,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "SRC",
+      "RELA",
+      "MAPK8",
+      "TP53"
+    ],
+    "fdr": 1.8747728818098334e-06
+  },
+  {
+    "pathway_id": "path:hsa05225",
+    "pathway_name": "path:hsa05225",
+    "overlap": 7,
+    "pathway_size": 170,
+    "p_value": 1.0049345698925904e-06,
+    "genes": [
+      "HMOX1",
+      "HRAS",
+      "MYC",
+      "NFE2L2",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 1.9115603231652534e-06
+  },
+  {
+    "pathway_id": "path:hsa04935",
+    "pathway_name": "path:hsa04935",
+    "overlap": 6,
+    "pathway_size": 122,
+    "p_value": 2.355102419415722e-06,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "FOS",
+      "MAPK8",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 4.43164433761023e-06
+  },
+  {
+    "pathway_id": "path:hsa04664",
+    "pathway_name": "path:hsa04664",
+    "overlap": 5,
+    "pathway_size": 69,
+    "p_value": 2.6669070769536063e-06,
+    "genes": [
+      "HRAS",
+      "MAPK8",
+      "TNF",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 4.964986579434905e-06
+  },
+  {
+    "pathway_id": "path:hsa05211",
+    "pathway_name": "path:hsa05211",
+    "overlap": 5,
+    "pathway_size": 70,
+    "p_value": 2.8654350376910998e-06,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "VEGFA",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 5.278432964167816e-06
+  },
+  {
+    "pathway_id": "path:hsa05230",
+    "pathway_name": "path:hsa05230",
+    "overlap": 5,
+    "pathway_size": 71,
+    "p_value": 3.075409544361918e-06,
+    "genes": [
+      "HRAS",
+      "MYC",
+      "TP53",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 5.606215315243079e-06
+  },
+  {
+    "pathway_id": "path:hsa04215",
+    "pathway_name": "path:hsa04215",
+    "overlap": 4,
+    "pathway_size": 32,
+    "p_value": 3.2346403630034715e-06,
+    "genes": [
+      "CASP3",
+      "MAPK8",
+      "BCL2",
+      "CASP9"
+    ],
+    "fdr": 5.835691376552655e-06
+  },
+  {
+    "pathway_id": "path:hsa04622",
+    "pathway_name": "path:hsa04622",
+    "overlap": 5,
+    "pathway_size": 72,
+    "p_value": 3.2973010972714434e-06,
+    "genes": [
+      "NFKB1",
+      "RELA",
+      "MAPK8",
+      "TNF",
+      "CXCL8"
+    ],
+    "fdr": 5.888037673699006e-06
+  },
+  {
+    "pathway_id": "path:hsa04115",
+    "pathway_name": "path:hsa04115",
+    "overlap": 5,
+    "pathway_size": 75,
+    "p_value": 4.039356100937752e-06,
+    "genes": [
+      "CASP9",
+      "BCL2",
+      "CASP3",
+      "TP53",
+      "CDK2"
+    ],
+    "fdr": 7.140275936001077e-06
+  },
+  {
+    "pathway_id": "path:hsa04623",
+    "pathway_name": "path:hsa04623",
+    "overlap": 5,
+    "pathway_size": 83,
+    "p_value": 6.670859992508049e-06,
+    "genes": [
+      "IL6",
+      "NFKB1",
+      "IL1B",
+      "CASP3",
+      "RELA"
+    ],
+    "fdr": 1.1618789553571406e-05
+  },
+  {
+    "pathway_id": "path:hsa04024",
+    "pathway_name": "path:hsa04024",
+    "overlap": 7,
+    "pathway_size": 226,
+    "p_value": 6.705701399489783e-06,
+    "genes": [
+      "JUN",
+      "NFKB1",
+      "FOS",
+      "RELA",
+      "MAPK8",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 1.1618789553571406e-05
+  },
+  {
+    "pathway_id": "path:hsa04921",
+    "pathway_name": "path:hsa04921",
+    "overlap": 6,
+    "pathway_size": 154,
+    "p_value": 9.08929989595908e-06,
+    "genes": [
+      "HRAS",
+      "JUN",
+      "SRC",
+      "FOS",
+      "MAPK1",
+      "PTGS2"
+    ],
+    "fdr": 1.5594387076400382e-05
+  },
+  {
+    "pathway_id": "path:hsa04014",
+    "pathway_name": "path:hsa04014",
+    "overlap": 7,
+    "pathway_size": 239,
+    "p_value": 9.681363833835555e-06,
+    "genes": [
+      "HRAS",
+      "NFKB1",
+      "VEGFA",
+      "RELA",
+      "MAPK8",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 1.6448919135157496e-05
+  },
+  {
+    "pathway_id": "path:hsa04630",
+    "pathway_name": "path:hsa04630",
+    "overlap": 6,
+    "pathway_size": 168,
+    "p_value": 1.4959691167493183e-05,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "IL6",
+      "BCL2",
+      "MYC",
+      "AKT1"
+    ],
+    "fdr": 2.5172557252993338e-05
+  },
+  {
+    "pathway_id": "path:hsa05020",
+    "pathway_name": "path:hsa05020",
+    "overlap": 7,
+    "pathway_size": 276,
+    "p_value": 2.4678670245470435e-05,
+    "genes": [
+      "CASP9",
+      "IL6",
+      "IL1B",
+      "CASP3",
+      "MAPK8",
+      "TNF",
+      "MAPK1"
+    ],
+    "fdr": 4.113111707578406e-05
+  },
+  {
+    "pathway_id": "path:hsa04725",
+    "pathway_name": "path:hsa04725",
+    "overlap": 5,
+    "pathway_size": 115,
+    "p_value": 3.275108691647155e-05,
+    "genes": [
+      "HRAS",
+      "BCL2",
+      "FOS",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 5.407019066398605e-05
+  },
+  {
+    "pathway_id": "path:hsa05415",
+    "pathway_name": "path:hsa05415",
+    "overlap": 6,
+    "pathway_size": 205,
+    "p_value": 4.6114080637815746e-05,
+    "genes": [
+      "NFKB1",
+      "MMP2",
+      "MAPK8",
+      "RELA",
+      "AKT1",
+      "MMP9"
+    ],
+    "fdr": 7.542022534222202e-05
+  },
+  {
+    "pathway_id": "path:hsa05218",
+    "pathway_name": "path:hsa05218",
+    "overlap": 4,
+    "pathway_size": 73,
+    "p_value": 8.911192658489497e-05,
+    "genes": [
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "HRAS"
+    ],
+    "fdr": 0.00014439432548478352
+  },
+  {
+    "pathway_id": "path:hsa04550",
+    "pathway_name": "path:hsa04550",
+    "overlap": 5,
+    "pathway_size": 144,
+    "p_value": 9.599389533765379e-05,
+    "genes": [
+      "STAT3",
+      "HRAS",
+      "MYC",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 0.0001541186393035726
+  },
+  {
+    "pathway_id": "path:hsa05214",
+    "pathway_name": "path:hsa05214",
+    "overlap": 4,
+    "pathway_size": 76,
+    "p_value": 0.0001043190746889966,
+    "genes": [
+      "TP53",
+      "MAPK1",
+      "AKT1",
+      "HRAS"
+    ],
+    "fdr": 0.00016596216427794912
+  },
+  {
+    "pathway_id": "path:hsa04217",
+    "pathway_name": "path:hsa04217",
+    "overlap": 5,
+    "pathway_size": 168,
+    "p_value": 0.00019828125170651134,
+    "genes": [
+      "STAT3",
+      "BCL2",
+      "IL1B",
+      "MAPK8",
+      "TNF"
+    ],
+    "fdr": 0.00031260557701477015
+  },
+  {
+    "pathway_id": "path:hsa04140",
+    "pathway_name": "path:hsa04140",
+    "overlap": 5,
+    "pathway_size": 169,
+    "p_value": 0.0002038546189436774,
+    "genes": [
+      "HRAS",
+      "BCL2",
+      "MAPK8",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 0.00031852284209949594
+  },
+  {
+    "pathway_id": "path:hsa05143",
+    "pathway_name": "path:hsa05143",
+    "overlap": 3,
+    "pathway_size": 37,
+    "p_value": 0.00023239311549483332,
+    "genes": [
+      "IL6",
+      "IL1B",
+      "TNF"
+    ],
+    "fdr": 0.0003599008425804941
+  },
+  {
+    "pathway_id": "path:hsa04061",
+    "pathway_name": "path:hsa04061",
+    "overlap": 4,
+    "pathway_size": 100,
+    "p_value": 0.00030175414408728507,
+    "genes": [
+      "CCL2",
+      "IL6",
+      "CXCL8",
+      "TNF"
+    ],
+    "fdr": 0.00046321908083574463
+  },
+  {
+    "pathway_id": "path:hsa04613",
+    "pathway_name": "path:hsa04613",
+    "overlap": 5,
+    "pathway_size": 195,
+    "p_value": 0.00039576346015324226,
+    "genes": [
+      "NFKB1",
+      "SRC",
+      "RELA",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 0.0006022487437114556
+  },
+  {
+    "pathway_id": "path:hsa05332",
+    "pathway_name": "path:hsa05332",
+    "overlap": 3,
+    "pathway_size": 45,
+    "p_value": 0.000416915728478906,
+    "genes": [
+      "IL6",
+      "IL1B",
+      "TNF"
+    ],
+    "fdr": 0.0006289676938259357
+  },
+  {
+    "pathway_id": "path:hsa04914",
+    "pathway_name": "path:hsa04914",
+    "overlap": 4,
+    "pathway_size": 110,
+    "p_value": 0.0004341953860417247,
+    "genes": [
+      "MAPK8",
+      "AKT1",
+      "CDK2",
+      "MAPK1"
+    ],
+    "fdr": 0.0006494375432248019
+  },
+  {
+    "pathway_id": "path:hsa04930",
+    "pathway_name": "path:hsa04930",
+    "overlap": 3,
+    "pathway_size": 47,
+    "p_value": 0.00047429595098658073,
+    "genes": [
+      "MAPK8",
+      "MAPK1",
+      "TNF"
+    ],
+    "fdr": 0.0007034050120563697
+  },
+  {
+    "pathway_id": "path:hsa04726",
+    "pathway_name": "path:hsa04726",
+    "overlap": 4,
+    "pathway_size": 115,
+    "p_value": 0.0005140168401782663,
+    "genes": [
+      "CASP3",
+      "MAPK1",
+      "HRAS",
+      "PTGS2"
+    ],
+    "fdr": 0.0007559071179092152
+  },
+  {
+    "pathway_id": "path:hsa05030",
+    "pathway_name": "path:hsa05030",
+    "overlap": 3,
+    "pathway_size": 49,
+    "p_value": 0.0005365166925439535,
+    "genes": [
+      "RELA",
+      "NFKB1",
+      "JUN"
+    ],
+    "fdr": 0.0007824201766265989
+  },
+  {
+    "pathway_id": "path:hsa04015",
+    "pathway_name": "path:hsa04015",
+    "overlap": 5,
+    "pathway_size": 212,
+    "p_value": 0.0005803337783163443,
+    "genes": [
+      "HRAS",
+      "VEGFA",
+      "SRC",
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 0.0008393257124409937
+  },
+  {
+    "pathway_id": "path:hsa04650",
+    "pathway_name": "path:hsa04650",
+    "overlap": 4,
+    "pathway_size": 133,
+    "p_value": 0.0008887767991837547,
+    "genes": [
+      "CASP3",
+      "MAPK1",
+      "HRAS",
+      "TNF"
+    ],
+    "fdr": 0.001274884752927517
+  },
+  {
+    "pathway_id": "path:hsa04910",
+    "pathway_name": "path:hsa04910",
+    "overlap": 4,
+    "pathway_size": 138,
+    "p_value": 0.0010201086715068142,
+    "genes": [
+      "MAPK8",
+      "AKT1",
+      "HRAS",
+      "MAPK1"
+    ],
+    "fdr": 0.001451374126127581
+  },
+  {
+    "pathway_id": "path:hsa04371",
+    "pathway_name": "path:hsa04371",
+    "overlap": 4,
+    "pathway_size": 140,
+    "p_value": 0.0010762802492684242,
+    "genes": [
+      "MAPK1",
+      "AKT1",
+      "HRAS",
+      "NOS2"
+    ],
+    "fdr": 0.0015189439001772117
+  },
+  {
+    "pathway_id": "path:hsa05014",
+    "pathway_name": "path:hsa05014",
+    "overlap": 6,
+    "pathway_size": 369,
+    "p_value": 0.0011107728326126276,
+    "genes": [
+      "CASP9",
+      "BCL2",
+      "CASP3",
+      "TNF",
+      "TP53",
+      "NOS2"
+    ],
+    "fdr": 0.0015550819656576786
+  },
+  {
+    "pathway_id": "path:hsa04929",
+    "pathway_name": "path:hsa04929",
+    "overlap": 3,
+    "pathway_size": 65,
+    "p_value": 0.001227514296197496,
+    "genes": [
+      "MAPK1",
+      "AKT1",
+      "HRAS"
+    ],
+    "fdr": 0.0017048809669409667
+  },
+  {
+    "pathway_id": "path:hsa04072",
+    "pathway_name": "path:hsa04072",
+    "overlap": 4,
+    "pathway_size": 149,
+    "p_value": 0.0013562552478469936,
+    "genes": [
+      "MAPK1",
+      "AKT1",
+      "HRAS",
+      "CXCL8"
+    ],
+    "fdr": 0.0018688556564820777
+  },
+  {
+    "pathway_id": "path:hsa04148",
+    "pathway_name": "path:hsa04148",
+    "overlap": 4,
+    "pathway_size": 157,
+    "p_value": 0.001644890873514715,
+    "genes": [
+      "CASP3",
+      "MAPK1",
+      "PPARG",
+      "PTGS2"
+    ],
+    "fdr": 0.0022488742411333994
+  },
+  {
+    "pathway_id": "path:hsa04150",
+    "pathway_name": "path:hsa04150",
+    "overlap": 4,
+    "pathway_size": 158,
+    "p_value": 0.0016837522503602154,
+    "genes": [
+      "MAPK1",
+      "AKT1",
+      "HRAS",
+      "TNF"
+    ],
+    "fdr": 0.0022749084528368604
+  },
+  {
+    "pathway_id": "path:hsa05012",
+    "pathway_name": "path:hsa05012",
+    "overlap": 5,
+    "pathway_size": 269,
+    "p_value": 0.0016899319935359536,
+    "genes": [
+      "CASP9",
+      "CASP3",
+      "MAPK8",
+      "NFE2L2",
+      "TP53"
+    ],
+    "fdr": 0.0022749084528368604
+  },
+  {
+    "pathway_id": "path:hsa04310",
+    "pathway_name": "path:hsa04310",
+    "overlap": 4,
+    "pathway_size": 178,
+    "p_value": 0.002602004201749608,
+    "genes": [
+      "TP53",
+      "MAPK8",
+      "MYC",
+      "JUN"
+    ],
+    "fdr": 0.003475959811497568
+  },
+  {
+    "pathway_id": "path:hsa04060",
+    "pathway_name": "path:hsa04060",
+    "overlap": 5,
+    "pathway_size": 298,
+    "p_value": 0.002646159099549239,
+    "genes": [
+      "IL6",
+      "IL1B",
+      "TNF",
+      "CCL2",
+      "CXCL8"
+    ],
+    "fdr": 0.0035081654728872486
+  },
+  {
+    "pathway_id": "path:hsa05016",
+    "pathway_name": "path:hsa05016",
+    "overlap": 5,
+    "pathway_size": 309,
+    "p_value": 0.0030959050698784463,
+    "genes": [
+      "CASP9",
+      "CASP3",
+      "MAPK8",
+      "PPARG",
+      "TP53"
+    ],
+    "fdr": 0.00407355930247164
+  },
+  {
+    "pathway_id": "path:hsa04540",
+    "pathway_name": "path:hsa04540",
+    "overlap": 3,
+    "pathway_size": 90,
+    "p_value": 0.0031231631927529646,
+    "genes": [
+      "MAPK1",
+      "HRAS",
+      "SRC"
+    ],
+    "fdr": 0.004078757900983349
+  },
+  {
+    "pathway_id": "path:hsa04750",
+    "pathway_name": "path:hsa04750",
+    "overlap": 3,
+    "pathway_size": 99,
+    "p_value": 0.004087358809303776,
+    "genes": [
+      "MAPK8",
+      "IL1B",
+      "SRC"
+    ],
+    "fdr": 0.005298428086134525
+  },
+  {
+    "pathway_id": "path:hsa04640",
+    "pathway_name": "path:hsa04640",
+    "overlap": 3,
+    "pathway_size": 100,
+    "p_value": 0.004204439365959933,
+    "genes": [
+      "IL6",
+      "IL1B",
+      "TNF"
+    ],
+    "fdr": 0.00541012418413962
+  },
+  {
+    "pathway_id": "path:hsa04350",
+    "pathway_name": "path:hsa04350",
+    "overlap": 3,
+    "pathway_size": 110,
+    "p_value": 0.005488636744858,
+    "genes": [
+      "MYC",
+      "MAPK1",
+      "TNF"
+    ],
+    "fdr": 0.007011032338322263
+  },
+  {
+    "pathway_id": "path:hsa04928",
+    "pathway_name": "path:hsa04928",
+    "overlap": 3,
+    "pathway_size": 115,
+    "p_value": 0.006210018019408681,
+    "genes": [
+      "MAPK1",
+      "BCL2",
+      "FOS"
+    ],
+    "fdr": 0.007875022850699414
+  },
+  {
+    "pathway_id": "path:hsa04810",
+    "pathway_name": "path:hsa04810",
+    "overlap": 4,
+    "pathway_size": 232,
+    "p_value": 0.006688652149031804,
+    "genes": [
+      "MAPK1",
+      "AKT1",
+      "HRAS",
+      "SRC"
+    ],
+    "fdr": 0.008420964935831408
+  },
+  {
+    "pathway_id": "path:hsa04611",
+    "pathway_name": "path:hsa04611",
+    "overlap": 3,
+    "pathway_size": 126,
+    "p_value": 0.007989857759855945,
+    "genes": [
+      "MAPK1",
+      "AKT1",
+      "SRC"
+    ],
+    "fdr": 0.009987322199819931
+  },
+  {
+    "pathway_id": "path:hsa04216",
+    "pathway_name": "path:hsa04216",
+    "overlap": 2,
+    "pathway_size": 42,
+    "p_value": 0.008313230367404278,
+    "genes": [
+      "TP53",
+      "HMOX1"
+    ],
+    "fdr": 0.010317839108480487
+  },
+  {
+    "pathway_id": "path:hsa04940",
+    "pathway_name": "path:hsa04940",
+    "overlap": 2,
+    "pathway_size": 44,
+    "p_value": 0.009096749394019943,
+    "genes": [
+      "IL1B",
+      "TNF"
+    ],
+    "fdr": 0.011210782703897818
+  },
+  {
+    "pathway_id": "path:hsa04728",
+    "pathway_name": "path:hsa04728",
+    "overlap": 3,
+    "pathway_size": 133,
+    "p_value": 0.00926422365697932,
+    "genes": [
+      "MAPK8",
+      "AKT1",
+      "FOS"
+    ],
+    "fdr": 0.01133733664315651
+  },
+  {
+    "pathway_id": "path:hsa04519",
+    "pathway_name": "path:hsa04519",
+    "overlap": 5,
+    "pathway_size": 404,
+    "p_value": 0.009564250869705693,
+    "genes": [
+      "HRAS",
+      "NFKB1",
+      "RELA",
+      "MAPK8",
+      "MAPK1"
+    ],
+    "fdr": 0.011623221543045114
+  },
+  {
+    "pathway_id": "path:hsa04114",
+    "pathway_name": "path:hsa04114",
+    "overlap": 3,
+    "pathway_size": 138,
+    "p_value": 0.010243532529804145,
+    "genes": [
+      "MAPK1",
+      "CDK2",
+      "AR"
+    ],
+    "fdr": 0.012362884087694656
+  },
+  {
+    "pathway_id": "path:hsa04723",
+    "pathway_name": "path:hsa04723",
+    "overlap": 3,
+    "pathway_size": 149,
+    "p_value": 0.012604375015245584,
+    "genes": [
+      "MAPK8",
+      "PTGS2",
+      "MAPK1"
+    ],
+    "fdr": 0.015107983751150529
+  },
+  {
+    "pathway_id": "path:hsa04261",
+    "pathway_name": "path:hsa04261",
+    "overlap": 3,
+    "pathway_size": 154,
+    "p_value": 0.013772637568453705,
+    "genes": [
+      "MAPK1",
+      "AKT1",
+      "BCL2"
+    ],
+    "fdr": 0.016285213341077017
+  },
+  {
+    "pathway_id": "path:hsa04518",
+    "pathway_name": "path:hsa04518",
+    "overlap": 3,
+    "pathway_size": 154,
+    "p_value": 0.013772637568453705,
+    "genes": [
+      "AKT1",
+      "VEGFA",
+      "SRC"
+    ],
+    "fdr": 0.016285213341077017
+  },
+  {
+    "pathway_id": "path:hsa04110",
+    "pathway_name": "path:hsa04110",
+    "overlap": 3,
+    "pathway_size": 158,
+    "p_value": 0.014750558907967282,
+    "genes": [
+      "TP53",
+      "MYC",
+      "CDK2"
+    ],
+    "fdr": 0.017324481938887748
+  },
+  {
+    "pathway_id": "path:hsa04517",
+    "pathway_name": "path:hsa04517",
+    "overlap": 4,
+    "pathway_size": 300,
+    "p_value": 0.016104312377263508,
+    "genes": [
+      "SRC",
+      "MAPK8",
+      "AKT1",
+      "MAPK1"
+    ],
+    "fdr": 0.01878836444014076
+  },
+  {
+    "pathway_id": "path:hsa04730",
+    "pathway_name": "path:hsa04730",
+    "overlap": 2,
+    "pathway_size": 60,
+    "p_value": 0.016474785078049448,
+    "genes": [
+      "MAPK1",
+      "HRAS"
+    ],
+    "fdr": 0.01896768018854377
+  },
+  {
+    "pathway_id": "path:hsa04923",
+    "pathway_name": "path:hsa04923",
+    "overlap": 2,
+    "pathway_size": 60,
+    "p_value": 0.016474785078049448,
+    "genes": [
+      "AKT1",
+      "PTGS2"
+    ],
+    "fdr": 0.01896768018854377
+  },
+  {
+    "pathway_id": "path:hsa04213",
+    "pathway_name": "path:hsa04213",
+    "overlap": 2,
+    "pathway_size": 62,
+    "p_value": 0.01752961830291655,
+    "genes": [
+      "AKT1",
+      "HRAS"
+    ],
+    "fdr": 0.020050217013139846
+  },
+  {
+    "pathway_id": "path:hsa04530",
+    "pathway_name": "path:hsa04530",
+    "overlap": 3,
+    "pathway_size": 171,
+    "p_value": 0.018197286019843495,
+    "genes": [
+      "JUN",
+      "MAPK8",
+      "SRC"
+    ],
+    "fdr": 0.020678734113458518
+  },
+  {
+    "pathway_id": "path:hsa04141",
+    "pathway_name": "path:hsa04141",
+    "overlap": 3,
+    "pathway_size": 175,
+    "p_value": 0.019341031458615765,
+    "genes": [
+      "MAPK8",
+      "BCL2",
+      "NFE2L2"
+    ],
+    "fdr": 0.021836648421017797
+  },
+  {
+    "pathway_id": "path:hsa04720",
+    "pathway_name": "path:hsa04720",
+    "overlap": 2,
+    "pathway_size": 67,
+    "p_value": 0.020288910485180667,
+    "genes": [
+      "MAPK1",
+      "HRAS"
+    ],
+    "fdr": 0.022759995736580878
+  },
+  {
+    "pathway_id": "path:hsa05031",
+    "pathway_name": "path:hsa05031",
+    "overlap": 2,
+    "pathway_size": 69,
+    "p_value": 0.021440494488389472,
+    "genes": [
+      "JUN",
+      "FOS"
+    ],
+    "fdr": 0.023898640353300367
+  },
+  {
+    "pathway_id": "path:hsa05416",
+    "pathway_name": "path:hsa05416",
+    "overlap": 2,
+    "pathway_size": 70,
+    "p_value": 0.022026352358717194,
+    "genes": [
+      "CASP3",
+      "CASP9"
+    ],
+    "fdr": 0.024278278269471206
+  },
+  {
+    "pathway_id": "path:hsa04360",
+    "pathway_name": "path:hsa04360",
+    "overlap": 3,
+    "pathway_size": 184,
+    "p_value": 0.022058549970548125,
+    "genes": [
+      "MAPK1",
+      "HRAS",
+      "SRC"
+    ],
+    "fdr": 0.024278278269471206
+  },
+  {
+    "pathway_id": "path:hsa04081",
+    "pathway_name": "path:hsa04081",
+    "overlap": 3,
+    "pathway_size": 219,
+    "p_value": 0.0345287961923586,
+    "genes": [
+      "ESR1",
+      "STAT3",
+      "SRC"
+    ],
+    "fdr": 0.03776587083539222
+  },
+  {
+    "pathway_id": "path:hsa04520",
+    "pathway_name": "path:hsa04520",
+    "overlap": 2,
+    "pathway_size": 93,
+    "p_value": 0.03724282466076767,
+    "genes": [
+      "MAPK1",
+      "SRC"
+    ],
+    "fdr": 0.04048133115300834
+  },
+  {
+    "pathway_id": "path:hsa04713",
+    "pathway_name": "path:hsa04713",
+    "overlap": 2,
+    "pathway_size": 97,
+    "p_value": 0.0402074920445924,
+    "genes": [
+      "MAPK1",
+      "FOS"
+    ],
+    "fdr": 0.04343401918397327
+  },
+  {
+    "pathway_id": "path:hsa04666",
+    "pathway_name": "path:hsa04666",
+    "overlap": 2,
+    "pathway_size": 98,
+    "p_value": 0.04096239192231155,
+    "genes": [
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 0.043978028137451046
+  },
+  {
+    "pathway_id": "path:hsa05410",
+    "pathway_name": "path:hsa05410",
+    "overlap": 2,
+    "pathway_size": 99,
+    "p_value": 0.041722701883404545,
+    "genes": [
+      "IL6",
+      "TNF"
+    ],
+    "fdr": 0.04452117579021826
+  },
+  {
+    "pathway_id": "path:hsa04916",
+    "pathway_name": "path:hsa04916",
+    "overlap": 2,
+    "pathway_size": 101,
+    "p_value": 0.04325938738246626,
+    "genes": [
+      "MAPK1",
+      "HRAS"
+    ],
+    "fdr": 0.04588116843594907
+  },
+  {
+    "pathway_id": "path:hsa04670",
+    "pathway_name": "path:hsa04670",
+    "overlap": 2,
+    "pathway_size": 116,
+    "p_value": 0.055436528973677235,
+    "genes": [
+      "MMP2",
+      "MMP9"
+    ],
+    "fdr": 0.058442123918033224
+  },
+  {
+    "pathway_id": "path:hsa04152",
+    "pathway_name": "path:hsa04152",
+    "overlap": 2,
+    "pathway_size": 122,
+    "p_value": 0.06061066544125815,
+    "genes": [
+      "AKT1",
+      "PPARG"
+    ],
+    "fdr": 0.06351417037257591
+  },
+  {
+    "pathway_id": "path:hsa05017",
+    "pathway_name": "path:hsa05017",
+    "overlap": 2,
+    "pathway_size": 144,
+    "p_value": 0.08090172257280204,
+    "genes": [
+      "MAPK8",
+      "AKT1"
+    ],
+    "fdr": 0.08427262768000213
+  },
+  {
+    "pathway_id": "path:hsa04934",
+    "pathway_name": "path:hsa04934",
+    "overlap": 2,
+    "pathway_size": 155,
+    "p_value": 0.09174287731159758,
+    "genes": [
+      "MAPK1",
+      "CDK2"
+    ],
+    "fdr": 0.09500002088479041
+  },
+  {
+    "pathway_id": "path:hsa04022",
+    "pathway_name": "path:hsa04022",
+    "overlap": 2,
+    "pathway_size": 166,
+    "p_value": 0.10298997863635473,
+    "genes": [
+      "MAPK1",
+      "AKT1"
+    ],
+    "fdr": 0.10601909565507105
+  },
+  {
+    "pathway_id": "path:hsa05034",
+    "pathway_name": "path:hsa05034",
+    "overlap": 2,
+    "pathway_size": 191,
+    "p_value": 0.12985074918382566,
+    "genes": [
+      "MAPK1",
+      "HRAS"
+    ],
+    "fdr": 0.1328881936091783
+  },
+  {
+    "pathway_id": "path:hsa04714",
+    "pathway_name": "path:hsa04714",
+    "overlap": 2,
+    "pathway_size": 234,
+    "p_value": 0.1792465105235842,
+    "genes": [
+      "PPARG",
+      "HRAS"
+    ],
+    "fdr": 0.18237290314899554
+  },
+  {
+    "pathway_id": "path:hsa04144",
+    "pathway_name": "path:hsa04144",
+    "overlap": 2,
+    "pathway_size": 250,
+    "p_value": 0.19834701614347605,
+    "genes": [
+      "HRAS",
+      "SRC"
+    ],
+    "fdr": 0.20064004523183993
+  },
+  {
+    "pathway_id": "path:hsa04020",
+    "pathway_name": "path:hsa04020",
+    "overlap": 2,
+    "pathway_size": 254,
+    "p_value": 0.20316569055607336,
+    "genes": [
+      "VEGFA",
+      "NOS2"
+    ],
+    "fdr": 0.20433330946731518
+  },
+  {
+    "pathway_id": "path:hsa01100",
+    "pathway_name": "path:hsa01100",
+    "overlap": 3,
+    "pathway_size": 1590,
+    "p_value": 0.9144558635427857,
+    "genes": [
+      "HMOX1",
+      "PTGS2",
+      "NOS2"
+    ],
+    "fdr": 0.9144558635427857
+  }
+]

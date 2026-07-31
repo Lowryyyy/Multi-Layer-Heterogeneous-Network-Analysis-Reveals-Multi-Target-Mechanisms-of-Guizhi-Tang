@@ -1,0 +1,284 @@
+{
+  "Kaempferol_Pancreatic_cancer": {
+    "targets": [
+      "AKT1",
+      "BCL2",
+      "CASP3",
+      "CDK2",
+      "HRAS",
+      "MAPK1",
+      "MMP2",
+      "NFKB1",
+      "SRC",
+      "STAT3",
+      "TP53",
+      "VEGFA"
+    ],
+    "kegg": [
+      {
+        "id": "hsa05200",
+        "name": "Pathways in cancer",
+        "p": 1.2e-08,
+        "fdr": 3.6e-07,
+        "n": 10
+      },
+      {
+        "id": "hsa04010",
+        "name": "MAPK signaling pathway",
+        "p": 3.5e-06,
+        "fdr": 5.3e-05,
+        "n": 6
+      },
+      {
+        "id": "hsa04210",
+        "name": "Apoptosis",
+        "p": 8.1e-06,
+        "fdr": 8.1e-05,
+        "n": 5
+      },
+      {
+        "id": "hsa04151",
+        "name": "PI3K-Akt signaling pathway",
+        "p": 1.5e-05,
+        "fdr": 0.00011,
+        "n": 5
+      },
+      {
+        "id": "hsa04068",
+        "name": "FoxO signaling pathway",
+        "p": 0.00042,
+        "fdr": 0.0025,
+        "n": 4
+      },
+      {
+        "id": "hsa04630",
+        "name": "JAK-STAT signaling pathway",
+        "p": 0.00068,
+        "fdr": 0.0034,
+        "n": 3
+      },
+      {
+        "id": "hsa04510",
+        "name": "Focal adhesion",
+        "p": 0.0011,
+        "fdr": 0.0047,
+        "n": 4
+      },
+      {
+        "id": "hsa04350",
+        "name": "TGF-beta signaling pathway",
+        "p": 0.0023,
+        "fdr": 0.0086,
+        "n": 3
+      }
+    ],
+    "go_bp": [
+      {
+        "id": "GO:0006915",
+        "name": "apoptotic process",
+        "p": 2.1e-07,
+        "n": 5
+      },
+      {
+        "id": "GO:0008283",
+        "name": "cell population proliferation",
+        "p": 5.4e-06,
+        "n": 6
+      },
+      {
+        "id": "GO:0007165",
+        "name": "signal transduction",
+        "p": 8.7e-08,
+        "n": 9
+      },
+      {
+        "id": "GO:0001525",
+        "name": "angiogenesis",
+        "p": 0.00018,
+        "n": 3
+      },
+      {
+        "id": "GO:0006468",
+        "name": "protein phosphorylation",
+        "p": 3.2e-05,
+        "n": 5
+      }
+    ],
+    "go_mf": [
+      {
+        "id": "GO:0004672",
+        "name": "protein kinase activity",
+        "p": 1.5e-05,
+        "n": 4
+      },
+      {
+        "id": "GO:0005515",
+        "name": "protein binding",
+        "p": 2.3e-09,
+        "n": 11
+      }
+    ],
+    "go_cc": [
+      {
+        "id": "GO:0005634",
+        "name": "nucleus",
+        "p": 1.2e-06,
+        "n": 7
+      },
+      {
+        "id": "GO:0005737",
+        "name": "cytoplasm",
+        "p": 3.5e-05,
+        "n": 8
+      }
+    ]
+  },
+  "6Gingerol_Breast_cancer": {
+    "targets": [
+      "AKT1",
+      "BCL2",
+      "CASP3",
+      "NFKB1",
+      "PTGS2",
+      "STAT3",
+      "TNF"
+    ],
+    "kegg": [
+      {
+        "id": "hsa05200",
+        "name": "Pathways in cancer",
+        "p": 5.6e-05,
+        "fdr": 0.00084,
+        "n": 6
+      },
+      {
+        "id": "hsa04064",
+        "name": "NF-kappa B signaling pathway",
+        "p": 1.2e-05,
+        "fdr": 0.00036,
+        "n": 4
+      },
+      {
+        "id": "hsa04210",
+        "name": "Apoptosis",
+        "p": 3.8e-05,
+        "fdr": 0.00076,
+        "n": 4
+      },
+      {
+        "id": "hsa04151",
+        "name": "PI3K-Akt signaling pathway",
+        "p": 0.00085,
+        "fdr": 0.013,
+        "n": 3
+      }
+    ],
+    "go_bp": [
+      {
+        "id": "GO:0006915",
+        "name": "apoptotic process",
+        "p": 8.5e-05,
+        "n": 4
+      },
+      {
+        "id": "GO:0006954",
+        "name": "inflammatory response",
+        "p": 0.00012,
+        "n": 3
+      },
+      {
+        "id": "GO:0007165",
+        "name": "signal transduction",
+        "p": 3.4e-05,
+        "n": 5
+      }
+    ],
+    "go_mf": [
+      {
+        "id": "GO:0005515",
+        "name": "protein binding",
+        "p": 5.6e-06,
+        "n": 7
+      }
+    ],
+    "go_cc": [
+      {
+        "id": "GO:0005634",
+        "name": "nucleus",
+        "p": 0.00045,
+        "n": 4
+      }
+    ]
+  },
+  "6Gingerol_Lung_cancer": {
+    "targets": [
+      "AKT1",
+      "BCL2",
+      "CASP3",
+      "MAPK1",
+      "NFKB1",
+      "STAT3",
+      "TNF"
+    ],
+    "kegg": [
+      {
+        "id": "hsa05200",
+        "name": "Pathways in cancer",
+        "p": 4.2e-05,
+        "fdr": 0.00063,
+        "n": 6
+      },
+      {
+        "id": "hsa04010",
+        "name": "MAPK signaling pathway",
+        "p": 0.00028,
+        "fdr": 0.0028,
+        "n": 3
+      },
+      {
+        "id": "hsa04210",
+        "name": "Apoptosis",
+        "p": 5.1e-05,
+        "fdr": 0.00051,
+        "n": 4
+      },
+      {
+        "id": "hsa04064",
+        "name": "NF-kappa B signaling pathway",
+        "p": 0.00015,
+        "fdr": 0.0011,
+        "n": 3
+      }
+    ],
+    "go_bp": [
+      {
+        "id": "GO:0006915",
+        "name": "apoptotic process",
+        "p": 6.2e-05,
+        "n": 4
+      },
+      {
+        "id": "GO:0008283",
+        "name": "cell population proliferation",
+        "p": 0.00031,
+        "n": 3
+      }
+    ],
+    "go_mf": [
+      {
+        "id": "GO:0005515",
+        "name": "protein binding",
+        "p": 3.2e-06,
+        "n": 7
+      }
+    ],
+    "go_cc": [
+      {
+        "id": "GO:0005634",
+        "name": "nucleus",
+        "p": 0.00058,
+        "n": 4
+      }
+    ]
+  }
+}

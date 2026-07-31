@@ -1,0 +1,142 @@
+[
+  {
+    "compound_idx": 7,
+    "compound": "Kaempferol",
+    "disease_idx": 5,
+    "disease": "Pancreatic cancer",
+    "score": 0.8454616665840149
+  },
+  {
+    "compound_idx": 29,
+    "compound": "6-Gingerol",
+    "disease_idx": 17,
+    "disease": "Breast cancer",
+    "score": 0.8063211441040039
+  },
+  {
+    "compound_idx": 29,
+    "compound": "6-Gingerol",
+    "disease_idx": 16,
+    "disease": "Lung cancer",
+    "score": 0.7876977324485779
+  },
+  {
+    "compound_idx": 8,
+    "compound": "Isorhamnetin",
+    "disease_idx": 5,
+    "disease": "Pancreatic cancer",
+    "score": 0.786548912525177
+  },
+  {
+    "compound_idx": 8,
+    "compound": "Isorhamnetin",
+    "disease_idx": 17,
+    "disease": "Breast cancer",
+    "score": 0.786548912525177
+  },
+  {
+    "compound_idx": 52,
+    "compound": "Isoliquiritigenin",
+    "disease_idx": 5,
+    "disease": "Pancreatic cancer",
+    "score": 0.7776516675949097
+  },
+  {
+    "compound_idx": 9,
+    "compound": "Taxifolin",
+    "disease_idx": 5,
+    "disease": "Pancreatic cancer",
+    "score": 0.7669827342033386
+  },
+  {
+    "compound_idx": 9,
+    "compound": "Taxifolin",
+    "disease_idx": 17,
+    "disease": "Breast cancer",
+    "score": 0.7669827342033386
+  },
+  {
+    "compound_idx": 8,
+    "compound": "Isorhamnetin",
+    "disease_idx": 16,
+    "disease": "Lung cancer",
+    "score": 0.7631031274795532
+  },
+  {
+    "compound_idx": 7,
+    "compound": "Kaempferol",
+    "disease_idx": 30,
+    "disease": "Colorectal cancer",
+    "score": 0.762279748916626
+  },
+  {
+    "compound_idx": 52,
+    "compound": "Isoliquiritigenin",
+    "disease_idx": 16,
+    "disease": "Lung cancer",
+    "score": 0.754315197467804
+  },
+  {
+    "compound_idx": 7,
+    "compound": "Kaempferol",
+    "disease_idx": 4,
+    "disease": "Alzheimer disease",
+    "score": 0.7514545917510986
+  },
+  {
+    "compound_idx": 56,
+    "compound": "Licochalcone A",
+    "disease_idx": 5,
+    "disease": "Pancreatic cancer",
+    "score": 0.7455511689186096
+  },
+  {
+    "compound_idx": 9,
+    "compound": "Taxifolin",
+    "disease_idx": 16,
+    "disease": "Lung cancer",
+    "score": 0.7434666752815247
+  },
+  {
+    "compound_idx": 6,
+    "compound": "Quercetin",
+    "disease_idx": 25,
+    "disease": "Heart failure",
+    "score": 0.7328424453735352
+  },
+  {
+    "compound_idx": 0,
+    "compound": "Cinnamaldehyde",
+    "disease_idx": 5,
+    "disease": "Pancreatic cancer",
+    "score": 0.7318622469902039
+  },
+  {
+    "compound_idx": 0,
+    "compound": "Cinnamaldehyde",
+    "disease_idx": 17,
+    "disease": "Breast cancer",
+    "score": 0.7318622469902039
+  },
+  {
+    "compound_idx": 56,
+    "compound": "Licochalcone A",
+    "disease_idx": 16,
+    "disease": "Lung cancer",
+    "score": 0.7186712026596069
+  },
+  {
+    "compound_idx": 54,
+    "compound": "Formononetin",
+    "disease_idx": 0,
+    "disease": "Rheumatoid arthritis",
+    "score": 0.7070362567901611
+  },
+  {
+    "compound_idx": 29,
+    "compound": "6-Gingerol",
+    "disease_idx": 30,
+    "disease": "Colorectal cancer",
+    "score": 0.706606924533844
+  }
+]

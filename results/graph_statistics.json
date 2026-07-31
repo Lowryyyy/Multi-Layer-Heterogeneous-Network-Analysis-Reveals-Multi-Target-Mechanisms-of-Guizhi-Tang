@@ -1,0 +1,20 @@
+{
+  "nodes": {
+    "herb": 5,
+    "compound": 77,
+    "target": 47,
+    "disease": 31,
+    "drug": 29
+  },
+  "edges": {
+    "herb-contains-compound": 86,
+    "compound-acts_on-target": 403,
+    "target-associated_with-disease": 415,
+    "drug-targets_protein-target": 60,
+    "drug-treats-disease": 266,
+    "target-interacts_with-target": 218,
+    "compound-may_treat-disease": 154
+  },
+  "total_nodes": 189,
+  "total_edges": 1602
+}

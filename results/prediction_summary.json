@@ -1,0 +1,91 @@
+{
+  "total_predictions": 20,
+  "top_score": 0.8454616665840149,
+  "mean_score": 0.7586623668670655,
+  "unique_compounds": 9,
+  "unique_diseases": 7,
+  "top_compounds": [
+    {
+      "compound": "Kaempferol",
+      "avg_score": 0.7863986690839132,
+      "n_predictions": 3
+    },
+    {
+      "compound": "Isorhamnetin",
+      "avg_score": 0.7787336508433024,
+      "n_predictions": 3
+    },
+    {
+      "compound": "6-Gingerol",
+      "avg_score": 0.7668752670288086,
+      "n_predictions": 3
+    },
+    {
+      "compound": "Isoliquiritigenin",
+      "avg_score": 0.7659834325313568,
+      "n_predictions": 2
+    },
+    {
+      "compound": "Taxifolin",
+      "avg_score": 0.7591440478960673,
+      "n_predictions": 3
+    },
+    {
+      "compound": "Quercetin",
+      "avg_score": 0.7328424453735352,
+      "n_predictions": 1
+    },
+    {
+      "compound": "Licochalcone A",
+      "avg_score": 0.7321111857891083,
+      "n_predictions": 2
+    },
+    {
+      "compound": "Cinnamaldehyde",
+      "avg_score": 0.7318622469902039,
+      "n_predictions": 2
+    },
+    {
+      "compound": "Formononetin",
+      "avg_score": 0.7070362567901611,
+      "n_predictions": 1
+    }
+  ],
+  "top_diseases": [
+    {
+      "disease": "Pancreatic cancer",
+      "avg_score": 0.7756763994693756,
+      "n_predictions": 6
+    },
+    {
+      "disease": "Breast cancer",
+      "avg_score": 0.7729287594556808,
+      "n_predictions": 4
+    },
+    {
+      "disease": "Lung cancer",
+      "avg_score": 0.7534507870674133,
+      "n_predictions": 5
+    },
+    {
+      "disease": "Alzheimer disease",
+      "avg_score": 0.7514545917510986,
+      "n_predictions": 1
+    },
+    {
+      "disease": "Colorectal cancer",
+      "avg_score": 0.734443336725235,
+      "n_predictions": 2
+    },
+    {
+      "disease": "Heart failure",
+      "avg_score": 0.7328424453735352,
+      "n_predictions": 1
+    },
+    {
+      "disease": "Rheumatoid arthritis",
+      "avg_score": 0.7070362567901611,
+      "n_predictions": 1
+    }
+  ]
+}

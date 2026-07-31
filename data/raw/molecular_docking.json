@@ -1,0 +1,182 @@
+{
+  "Kaempferol_Pancreatic_cancer": {
+    "compound": "Kaempferol",
+    "disease": "Pancreatic cancer",
+    "score": 0.8455,
+    "pairs": [
+      {
+        "target": "AKT1",
+        "pdb": "4EKL",
+        "energy": -8.2,
+        "interactions": "H-bonds: Lys179, Glu228; Hydrophobic: Leu156, Val164"
+      },
+      {
+        "target": "TP53",
+        "pdb": "1TUP",
+        "energy": -7.5,
+        "interactions": "H-bonds: Arg248, Glu271; Pi-stacking: Phe270"
+      },
+      {
+        "target": "VEGFA",
+        "pdb": "1VPF",
+        "energy": -7.1,
+        "interactions": "H-bonds: Asp63, Arg82; Hydrophobic: Leu65"
+      },
+      {
+        "target": "STAT3",
+        "pdb": "1BG1",
+        "energy": -7.8,
+        "interactions": "H-bonds: Glu638, Arg609; Hydrophobic: Leu607"
+      },
+      {
+        "target": "BCL2",
+        "pdb": "4LVT",
+        "energy": -6.9,
+        "interactions": "H-bonds: Asp103, Arg107; Hydrophobic: Phe104"
+      },
+      {
+        "target": "CASP3",
+        "pdb": "1NME",
+        "energy": -7.3,
+        "interactions": "H-bonds: Arg207, Ser209; Hydrophobic: Trp206"
+      },
+      {
+        "target": "CDK2",
+        "pdb": "1HCK",
+        "energy": -7.6,
+        "interactions": "H-bonds: Leu83, Glu81; Hydrophobic: Phe80"
+      },
+      {
+        "target": "SRC",
+        "pdb": "1Y57",
+        "energy": -7.4,
+        "interactions": "H-bonds: Met341, Glu310; Hydrophobic: Leu393"
+      },
+      {
+        "target": "HRAS",
+        "pdb": "5P21",
+        "energy": -6.8,
+        "interactions": "H-bonds: Asp33, Ser65; Hydrophobic: Val9"
+      },
+      {
+        "target": "MAPK1",
+        "pdb": "2ERK",
+        "energy": -7.0,
+        "interactions": "H-bonds: Met108, Glu106; Hydrophobic: Leu101"
+      },
+      {
+        "target": "MMP2",
+        "pdb": "1QIB",
+        "energy": -6.7,
+        "interactions": "H-bonds: Glu402, His403; Zn-coordination"
+      },
+      {
+        "target": "NFKB1",
+        "pdb": "1LE9",
+        "energy": -7.2,
+        "interactions": "H-bonds: Tyr57, Glu60; Hydrophobic: Phe58"
+      }
+    ],
+    "mean_energy": -7.29
+  },
+  "6Gingerol_Breast_cancer": {
+    "compound": "6-Gingerol",
+    "disease": "Breast cancer",
+    "score": 0.8063,
+    "pairs": [
+      {
+        "target": "AKT1",
+        "pdb": "4EKL",
+        "energy": -7.1,
+        "interactions": "H-bonds: Lys179, Glu228; Hydrophobic: Leu156"
+      },
+      {
+        "target": "BCL2",
+        "pdb": "4LVT",
+        "energy": -6.5,
+        "interactions": "H-bonds: Asp103; Hydrophobic: Phe104, Leu115"
+      },
+      {
+        "target": "CASP3",
+        "pdb": "1NME",
+        "energy": -6.8,
+        "interactions": "H-bonds: Arg207, Gly238; Hydrophobic: Trp206"
+      },
+      {
+        "target": "NFKB1",
+        "pdb": "1LE9",
+        "energy": -6.9,
+        "interactions": "H-bonds: Tyr57, Gln55; Hydrophobic: Phe58"
+      },
+      {
+        "target": "PTGS2",
+        "pdb": "5KIR",
+        "energy": -7.4,
+        "interactions": "H-bonds: Arg120, Tyr355; Hydrophobic: Val523, Leu531"
+      },
+      {
+        "target": "STAT3",
+        "pdb": "1BG1",
+        "energy": -7.0,
+        "interactions": "H-bonds: Glu638; Hydrophobic: Leu607, Val637"
+      },
+      {
+        "target": "TNF",
+        "pdb": "2AZ5",
+        "energy": -6.6,
+        "interactions": "H-bonds: Leu57, Tyr59; Hydrophobic: Leu157"
+      }
+    ],
+    "mean_energy": -6.9
+  },
+  "6Gingerol_Lung_cancer": {
+    "compound": "6-Gingerol",
+    "disease": "Lung cancer",
+    "score": 0.7877,
+    "pairs": [
+      {
+        "target": "AKT1",
+        "pdb": "4EKL",
+        "energy": -7.1,
+        "interactions": "H-bonds: Lys179, Glu228; Hydrophobic: Leu156"
+      },
+      {
+        "target": "BCL2",
+        "pdb": "4LVT",
+        "energy": -6.5,
+        "interactions": "H-bonds: Asp103; Hydrophobic: Phe104"
+      },
+      {
+        "target": "CASP3",
+        "pdb": "1NME",
+        "energy": -6.8,
+        "interactions": "H-bonds: Arg207; Hydrophobic: Trp206"
+      },
+      {
+        "target": "MAPK1",
+        "pdb": "2ERK",
+        "energy": -6.7,
+        "interactions": "H-bonds: Met108; Hydrophobic: Leu101"
+      },
+      {
+        "target": "NFKB1",
+        "pdb": "1LE9",
+        "energy": -6.9,
+        "interactions": "H-bonds: Tyr57; Hydrophobic: Phe58"
+      },
+      {
+        "target": "STAT3",
+        "pdb": "1BG1",
+        "energy": -7.0,
+        "interactions": "H-bonds: Glu638; Hydrophobic: Leu607"
+      },
+      {
+        "target": "TNF",
+        "pdb": "2AZ5",
+        "energy": -6.6,
+        "interactions": "H-bonds: Leu57; Hydrophobic: Leu157"
+      }
+    ],
+    "mean_energy": -6.8
+  }
+}
