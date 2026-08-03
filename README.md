@@ -1,11 +1,5 @@
 # Guizhi Tang Multi-Target Mechanism Analysis via Heterogeneous GNN
-
-Computational elucidation of multi-target molecular mechanisms of Guizhi Tang (桂枝汤), a classical Traditional Chinese Medicine formula, using heterogeneous graph neural networks, molecular docking, and KEGG/GO pathway enrichment.
-
-**Publication:** Du Y, Luan F. Multi-Layer Heterogeneous Network Analysis Reveals Multi-Target Mechanisms of Guizhi Tang: Integrating Graph Neural Networks with Molecular Docking and Pathway Enrichment. *Scientific Reports* (2026). Manuscript ID: aed4d08b-e589-4dda-9fa3-3cefc6abc0c1
-
 ---
-
 ## Repository Structure
 
 ```
